@@ -1,0 +1,27 @@
+{
+  "paper_trade": true,
+  "max_concurrent": 3,
+  "margin_per_trade_usd": 7.0,
+  "leverage_per_symbol": {
+    "BTC-PERP": 50,
+    "ETH-PERP": 50,
+    "SOL-PERP": 40,
+    "BNB-PERP": 20,
+    "DOGE-PERP": 10
+  },
+  "default_leverage": 20,
+  "tp_roe_pct": 1.0,
+  "tp_partial_close_pct": 0.75,
+  "sl_roe_pct": 0.7,
+  "trail_activate_roe_pct": 1.0,
+  "trail_distance_roe_pct": 0.4,
+  "symbols": ["BTC-PERP", "ETH-PERP", "SOL-PERP"],
+  "timeframe": "4h",
+  "candles_lookback": 400,
+  "min_confidence": 0.6,
+  "max_bars_hold": 12,
+  "daily_loss_circuit_pct": 0.20,
+  "telegram_chat_id": "5280120497",
+  "check_interval_minutes": 30,
+  "halt": false
+}

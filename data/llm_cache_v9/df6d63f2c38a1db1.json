@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.7, "reason": "EMA alignment MIXED (price>EMA13/21/34/50/90/200 but EMA13<EMA21); Stoch mid-zone bullish cross at 48.7 lacks setup. Rule 3 applies."}

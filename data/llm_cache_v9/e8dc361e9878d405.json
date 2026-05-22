@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.7, "reason": "EMA stack MIXED (price below EMA200, EMA90 above EMA13); Stoch %K 47 crossed %D from sub-40 but EMA filter fails."}

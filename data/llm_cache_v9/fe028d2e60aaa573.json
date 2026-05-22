@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.7, "reason": "EMA alignment MIXED (EMA200 above EMA13-50 stack); rule 3 forces skip despite lower_bullish_cross with %K rising from below %D."}

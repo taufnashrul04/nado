@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price>EMA13 but below EMA21/34/50/90/200); Stoch overbought at 80 blocks long, no bearish EMA alignment for short."}

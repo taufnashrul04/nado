@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.62, "reason": "EMA stack MIXED (price>all EMAs but EMA13<EMA200, no clean alignment); Stoch overbought bearish cross unusable without bearish EMA structure."}

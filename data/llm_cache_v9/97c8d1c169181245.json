@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (13<21, 34<21, price hugging cluster) and Stoch deep overbought at 96.6; rules forbid long on mixed and no bearish stack for short."}

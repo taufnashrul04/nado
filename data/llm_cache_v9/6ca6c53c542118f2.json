@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.8, "reason": "EMA stack MIXED (price below EMA21/34/50, above EMA13/90/200). Rule 3 mandates skip regardless of Stoch overbought reading."}

@@ -1,0 +1,1 @@
+{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price>EMA13/21/34 but below EMA50/90/200); Stoch overbought at 90.8 with bullish cross fails rule 1 lower-zone trigger."}
