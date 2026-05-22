@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.62, "reason": "EMA stack MIXED (price below 13/21/34, above 50/90/200) violates rule 3 despite Stoch oversold bullish cross (%K 18.3 > %D 14.3)."}

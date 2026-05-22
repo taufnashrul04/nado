@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.82, "reason": "EMA stack MIXED (price below EMA13, above EMA21/34/50, below EMA90/200); Stoch %K 19 still falling below %D, no momentum shift."}

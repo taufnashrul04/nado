@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.7, "reason": "EMA stack MIXED (price>EMA13/21/34/50 but below EMA90/200); Stoch overbought at 81.8, no clean setup per rules."}

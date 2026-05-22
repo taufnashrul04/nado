@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack mixed: price below EMA50/90/200 but above EMA13/21. Stoch mid-zone bearish cross from 63.9, no clean setup."}

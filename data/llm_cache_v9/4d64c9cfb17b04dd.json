@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price>13>21>34>50 bullish but EMA90<50 and price>EMA200 broken structure); Stoch upper bearish cross adds no edge without aligned EMAs."}

@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA alignment MIXED (price between EMA90 and EMA200, EMA13<EMA21<EMA34); Stoch overbought at 82.9 above %D, no valid setup."}

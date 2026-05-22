@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.7, "reason": "EMA stack MIXED (price below EMA90/200, above EMA34); Stoch bullish cross from low zone but trend filter fails rule 3."}

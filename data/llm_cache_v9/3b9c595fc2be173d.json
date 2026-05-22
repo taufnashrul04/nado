@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price below all EMAs but 13>21>34<50<90<200), violates rule 3. Stoch %K falling, not crossing up from oversold."}

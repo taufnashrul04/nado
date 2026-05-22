@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.72, "reason": "EMA alignment MIXED (price above 13/21/34/50/90 but EMA200 at 2100 sits above 13/21/34/50); Stoch upper_bearish_cross conflicts with bullish price structure."}

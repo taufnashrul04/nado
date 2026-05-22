@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.7, "reason": "EMA alignment MIXED (price below all EMAs except 200 above); Stoch oversold cross exists but EMA rule blocks long entry."}

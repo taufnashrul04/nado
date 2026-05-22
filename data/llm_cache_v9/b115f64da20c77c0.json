@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED with price below all EMAs except EMA200; Stoch lower bullish cross but alignment fails Rule 1, Rule 3 triggers skip."}

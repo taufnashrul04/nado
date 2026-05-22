@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price below EMA200, EMA90 above 13/21/34/50); Stoch upper_bearish_cross at 61/66 fails long and short rules."}

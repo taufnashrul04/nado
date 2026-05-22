@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA alignment MIXED (price below all EMAs but EMA13<21<34<50, EMA90/200 inverted). Stoch lower bullish cross noted but rules require non-mixed stack."}

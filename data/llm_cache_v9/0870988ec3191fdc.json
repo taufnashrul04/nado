@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.62, "reason": "EMA stack MIXED (price below EMA200, above 13-90); rules require PERFECT/PARTIAL bearish for short despite Stoch overbought bearish cross."}

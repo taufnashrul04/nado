@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.62, "reason": "EMA stack MIXED (13<21, 34<21, price straddling EMA13/34); Stoch %K cross up from 32 is constructive but rules require non-mixed alignment."}

@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price above all EMAs but EMAs tangled, 13>21>50>90 but 34<50, 200 on top); rule 3 forces skip."}

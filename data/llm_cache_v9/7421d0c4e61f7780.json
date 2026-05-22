@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.7, "reason": "EMA alignment MIXED (price below all EMAs but EMA200<EMA50, not PERFECT_BEARISH); Stoch lower bullish cross alone insufficient per rules."}

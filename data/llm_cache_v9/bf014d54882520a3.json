@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA stack MIXED (price hugging EMAs, no clear alignment); Stoch overbought above %D but rules require non-MIXED stack to trade."}

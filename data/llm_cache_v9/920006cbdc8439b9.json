@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.78, "reason": "EMA alignment MIXED (EMA200 above EMA50/90), fails bullish stack rule despite Stoch momentum; rules require non-mixed stack to trade."}

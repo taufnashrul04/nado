@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.0, "reason": "EMA alignment MIXED (price below EMA13/21/34/50, above EMA90/200); Rule 3 forces skip despite lower bullish Stoch cross."}

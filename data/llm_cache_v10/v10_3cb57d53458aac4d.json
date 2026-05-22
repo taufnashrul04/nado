@@ -1,1 +1,0 @@
-{"action": "skip", "confidence": 0.62, "layers_agree": 3, "reason": "L1 EMA only PARTIAL_bearish (price at EMA21), not full stack; L2 daily bear+ADX33.8 strong; L3 TV SELL; L4 strict rule fails on incomplete EMA alignment at 50x."}
